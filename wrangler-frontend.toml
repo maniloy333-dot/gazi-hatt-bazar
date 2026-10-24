@@ -1,0 +1,6 @@
+name = "gazi-hatt-bazar"
+compatibility_date = "2026-10-23"
+
+[assets]
+directory = "."
+binding = "ASSETS"
